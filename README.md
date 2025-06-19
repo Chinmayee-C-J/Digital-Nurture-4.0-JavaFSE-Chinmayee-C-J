@@ -4,9 +4,9 @@ This repository is maintained as part of **Cognizantâ€™s Digital Nurture 4.0** â
 
 ## Purpose
 
-- Maintain organized records of weekly hands-on coding assignments.
-- Track development progress through all program modules.
-- Serve as a technical portfolio of full stack capabilities using Java and associated frameworks.
+-Document and organize the **mandatory weekly hands-on coding exercises**
+-Track submission progress across different modules
+-Serve as a portfolio of Java FSE development skills
 
 ## Folder Structure
 
