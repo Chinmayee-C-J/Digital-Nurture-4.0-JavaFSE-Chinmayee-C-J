@@ -1,6 +1,6 @@
 # Digital-Nurture-4.0-JavaFSE-Chinmayee-C-J
 
-This repository is maintained as part of Cognizant’s **Digital Nurture 4.0 – Java Full Stack Engineering** program. It is structured to support hands-on learning through weekly exercises focused on Java full stack technologies.
+This repository is maintained as part of **Cognizant’s Digital Nurture 4.0** – Java Full Stack Engineering deep skilling program. The initiative aims to build solid full stack development capabilities by combining hands-on assignments with industry-relevant tools, frameworks, and best practices.
 
 ## Purpose
 
