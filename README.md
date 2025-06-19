@@ -5,7 +5,7 @@ This repository is maintained as part of **Cognizantâ€™s Digital Nurture 4.0** â
 ## Purpose
 - Document and organize the **mandatory weekly hands-on coding exercises**
 - Track submission progress across different modules
--Serve as a portfolio of Java FSE development skills
+- Serve as a portfolio of Java FSE development skills
 
 
 ## Folder Structure
