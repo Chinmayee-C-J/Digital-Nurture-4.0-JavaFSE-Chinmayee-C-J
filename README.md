@@ -10,7 +10,7 @@ This repository is maintained as part of Cognizant’s **Digital Nurture 4.0 –
 
 ## Folder Structure
 
-<pre> ## Folder Structure ```Digital-Nurture-4.0-JavaFSE-Chinmayee-C-J/
+<pre> Digital-Nurture-4.0-JavaFSE-Chinmayee-C-J/
 ├── week1_handsOn/
 │└── [Assignments and Solutions]
 ├── week2_handsOn/
@@ -27,7 +27,7 @@ This repository is maintained as part of Cognizant’s **Digital Nurture 4.0 –
 │ └── [Assignments and Solutions]
 ├── week8_handsOn/
 │ └── [Assignments and Solutions]
-└── README.md``` </pre>
+└── README.md </pre>
 
 Each `weekX_handsOn` directory contains the hands-on exercises, solutions, and source files developed during that week’s assignments.
 
