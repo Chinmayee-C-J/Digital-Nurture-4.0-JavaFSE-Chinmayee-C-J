@@ -3,10 +3,10 @@
 This repository is maintained as part of **Cognizant’s Digital Nurture 4.0** – Java Full Stack Engineering deep skilling program. The initiative aims to build solid full stack development capabilities by combining hands-on assignments with industry-relevant tools, frameworks, and best practices.
 
 ## Purpose
-
--Document and organize the **mandatory weekly hands-on coding exercises**
--Track submission progress across different modules
+- Document and organize the **mandatory weekly hands-on coding exercises**
+- Track submission progress across different modules
 -Serve as a portfolio of Java FSE development skills
+
 
 ## Folder Structure
 
