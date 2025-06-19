@@ -12,21 +12,21 @@ This repository is maintained as part of Cognizant’s **Digital Nurture 4.0 –
 
 <pre> Digital-Nurture-4.0-JavaFSE-Chinmayee-C-J/
 ├── week1_handsOn/
-│└── [Assignments and Solutions]
+│└── [exercise folders and files]
 ├── week2_handsOn/
-│ └── [Assignments and Solutions]
+│ └── [exercise folders and files]
 ├── week3_handsOn/
-│ └── [Assignments and Solutions]
+│ └── [exercise folders and files]
 ├── week4_handsOn/
-│ └── [Assignments and Solutions]
+│ └── [exercise folders and files]
 ├── week5_handsOn/
-│ └── [Assignments and Solutions]
+│ └── [exercise folders and files]
 ├── week6_handsOn/
-│ └── [Assignments and Solutions]
+│ └── [exercise folders and files]
 ├── week7_handsOn/
-│ └── [Assignments and Solutions]
+│ └── [exercise folders and files]
 ├── week8_handsOn/
-│ └── [Assignments and Solutions]
+│ └── [exercise folders and files]
 └── README.md </pre>
 
 Each `weekX_handsOn` directory contains the hands-on exercises, solutions, and source files developed during that week’s assignments.
