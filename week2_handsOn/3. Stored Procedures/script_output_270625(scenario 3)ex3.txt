@@ -1,0 +1,38 @@
+
+
+Table ACCOUNTS created.
+
+Elapsed: 00:00:00.011
+
+
+Commit complete.
+
+Elapsed: 00:00:00.001
+
+1 row inserted.
+
+Elapsed: 00:00:00.013
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+Commit complete.
+
+Elapsed: 00:00:00.003
+
+
+Procedure TRANSFERFUNDS compiled
+
+Elapsed: 00:00:00.034
+
+Transfer of 1000 from Account 401 to Account 402 completed.
+New Balance - Account 401: $4000
+New Balance - Account 402: $4000
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.015

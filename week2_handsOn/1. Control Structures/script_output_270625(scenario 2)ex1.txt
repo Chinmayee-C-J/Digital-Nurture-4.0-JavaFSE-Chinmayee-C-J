@@ -1,0 +1,31 @@
+Table CUSTOMERS created.
+
+Elapsed: 00:00:00.016
+
+
+Commit complete.
+
+Elapsed: 00:00:00.000
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.014
+
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.011
+
+
+--- VIP Customers after Update ---
+Customer ID: 1
+Name       : Alice Smith
+Balance    : $15000
+------------------------------
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.005

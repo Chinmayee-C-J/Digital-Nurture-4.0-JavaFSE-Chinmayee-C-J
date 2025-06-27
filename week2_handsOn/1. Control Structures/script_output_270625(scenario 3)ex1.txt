@@ -1,0 +1,28 @@
+
+
+Table LOANS created.
+
+Elapsed: 00:00:00.008
+
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.022
+
+
+Commit complete.
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.019
+
+--- Loan Due Reminders (Next 30 Days) ---
+Reminder: Alice Smith (Customer ID: 1) has a loan (ID: 201) due on 05-Jul-2025 of amount $2000
+Reminder: Carol Davis (Customer ID: 3) has a loan (ID: 203) due on 25-Jul-2025 of amount $1500
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.004

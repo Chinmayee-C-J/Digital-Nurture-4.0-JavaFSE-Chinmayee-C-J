@@ -1,0 +1,2 @@
+12:35:47.123 [main] ERROR LoggingExample - This is an error message
+12:35:47.124 [main] WARN  LoggingExample - This is a warning message

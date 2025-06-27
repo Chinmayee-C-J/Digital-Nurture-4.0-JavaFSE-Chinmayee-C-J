@@ -1,0 +1,29 @@
+
+
+Table CUSTOMERS created.
+
+Elapsed: 00:00:00.016
+
+
+Commit complete.
+
+Elapsed: 00:00:00.000
+
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.009
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.011
+
+--- Updated Loan Interest Rates for Customers > 60 ---
+Customer ID: 1, Name: Alice Smith, Age: 65, New Interest: 6.5
+Customer ID: 3, Name: Carol Davis, Age: 70, New Interest: 7.2
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.008
