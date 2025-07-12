@@ -1,0 +1,7 @@
+
+START - displayCountries
+Country [code=IN, name=India]
+Country [code=US, name=United States]
+Country [code=DE, name=Germany]
+Country [code=JP, name=Japan]
+END - displayCountries

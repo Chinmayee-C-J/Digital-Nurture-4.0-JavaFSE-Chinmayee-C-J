@@ -1,0 +1,7 @@
+Sample Request URL: http://localhost:8083/countries/in
+
+Sample Response (Browser/Postman):
+{
+  "code": "IN",
+  "name": "India"
+}
