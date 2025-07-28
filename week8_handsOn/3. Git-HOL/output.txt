@@ -1,0 +1,22 @@
+Output:
+
+Switched to a new branch 'GitNewBranch'
+  branch_file.txt
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   branch_file.txt
+
+Switched to branch 'master'
+Merge made by the 'recursive' strategy.
+ branch_file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 branch_file.txt
+
+*   f4e5cde (HEAD -> master) Merge branch 'GitNewBranch'
+|\  
+| * 3e5b1c2 (GitNewBranch) Added file in GitNewBranch
+|/  
+* a1c2b3f initial commit
+
+Deleted branch GitNewBranch (was 3e5b1c2).

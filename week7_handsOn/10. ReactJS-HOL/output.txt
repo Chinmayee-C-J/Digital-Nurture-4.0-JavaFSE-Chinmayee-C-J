@@ -1,0 +1,17 @@
+Output:
+
+Office Space Rentals
+
+1. GreenTech Workspace
+   Rent: ₹75000 (Green)
+   Address: 123, MG Road, Bengaluru
+
+2. Innovate Hub
+   Rent: ₹55000 (Red)
+   Address: 456, Residency Road, Bengaluru
+
+3. Skyline Offices
+   Rent: ₹62000 (Green)
+   Address: 789, Koramangala, Bengaluru
+
+Each listing includes an image rendered with JSX, conditional rent coloring using inline CSS, and looping through object data.

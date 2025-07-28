@@ -1,0 +1,19 @@
+Output:
+
+Initial View (Books):
+Book List
+- Atomic Habits
+- Deep Work
+- Clean Code
+
+Clicking 'Blog':
+Blog List
+React Best Practices
+Understanding Hooks
+JSX Explained
+
+Clicking 'Course':
+Courses
+- React Basics
+- Advanced React
+- React with TypeScript

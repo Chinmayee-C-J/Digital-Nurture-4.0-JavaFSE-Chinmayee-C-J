@@ -1,0 +1,14 @@
+Output:
+
+Auto-merging hello.xml
+CONFLICT (add/add): Merge conflict in hello.xml
+Automatic merge failed; fix conflicts and then commit the result.
+
+[master 9c88abc] Resolved conflict in hello.xml
+[master a1b2c3d] Added backup pattern to .gitignore
+Deleted branch GitWork (was e7f1234).
+*   9c88abc (HEAD -> master) Resolved conflict in hello.xml
+|\  
+| * e7f1234 (GitWork) Add hello.xml in GitWork
+|/  
+* 4f5e6d7 Add conflicting hello.xml in master

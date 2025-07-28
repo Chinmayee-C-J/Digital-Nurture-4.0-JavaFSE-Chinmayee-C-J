@@ -1,0 +1,16 @@
+Output:
+
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+$ git branch -a
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/feature-branch
+
+$ git pull origin master
+Already up to date.
+
+$ git push origin master
+Everything up-to-date

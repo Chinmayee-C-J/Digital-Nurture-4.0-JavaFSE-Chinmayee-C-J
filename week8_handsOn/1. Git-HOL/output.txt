@@ -1,0 +1,21 @@
+Output:
+
+$ git --version
+git version 2.XX.X
+
+$ git config --global user.name "Your Name"
+$ git config --global user.email "youremail@example.com"
+$ git config --list
+user.name=Your Name
+user.email=youremail@example.com
+
+$ git init
+Initialized empty Git repository in /c/Users/YourUser/GitDemo/.git/
+
+$ git add welcome.txt
+$ git commit
+[master (root-commit) xxxxxxx] initial commit
+
+$ git push origin master
+To https://gitlab.com/yourusername/GitDemo.git
+ * [new branch]      master -> master

@@ -1,0 +1,9 @@
+Output:
+
+When app starts:
+Welcome Guest! Please login to book tickets. Here are the available flights.
+[Login Button]
+
+After clicking Login:
+Welcome User! You can now book your tickets.
+[Logout Button]

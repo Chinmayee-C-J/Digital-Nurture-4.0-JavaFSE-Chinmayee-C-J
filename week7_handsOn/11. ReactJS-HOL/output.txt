@@ -1,0 +1,19 @@
+Output:
+
+1. Clicking "Increment":
+   - Counter increases by 1
+   - Console logs: "Hello! Counter has been updated."
+
+2. Clicking "Decrement":
+   - Counter decreases by 1
+
+3. Clicking "Say Welcome":
+   - Alert: "Welcome!"
+
+4. Clicking "Click Me (Synthetic Event)":
+   - Alert: "I was clicked"
+
+5. Currency Convertor:
+   - Input: 1000
+   - Click "Convert"
+   - Output: "1000 INR = €11.00"

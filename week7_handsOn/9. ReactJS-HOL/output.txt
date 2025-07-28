@@ -1,0 +1,23 @@
+Output:
+
+When Flag = true:
+High Scoring Players (70+)
+- Virat - 100
+- Rohit - 90
+- Pant - 85
+- Jadeja - 75
+- Shami - 95
+- Samson - 80
+
+When Flag = false:
+Odd Team Players:
+- Virat
+- Pant
+- Pujara
+- Iyer
+
+Even Team Players:
+- Rohit
+- Hardik
+- Rahane
+- Karun

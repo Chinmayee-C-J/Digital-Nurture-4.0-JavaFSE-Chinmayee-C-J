@@ -1,0 +1,5 @@
+# Requirements
+
+- GitHub account (do not use Cognizant credentials)
+- Git must be installed
+- Access to the remote Git repository
