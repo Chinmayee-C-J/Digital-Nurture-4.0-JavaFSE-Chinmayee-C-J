@@ -1,0 +1,8 @@
+Output on http://localhost:3000:
+
+Student Score Calculator
+Name: John Doe
+School: ABC High School
+Total Marks: 450
+Goal: 5
+Average Score: 90

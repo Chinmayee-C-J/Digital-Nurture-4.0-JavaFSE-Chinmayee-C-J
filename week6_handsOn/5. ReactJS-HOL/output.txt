@@ -1,0 +1,13 @@
+Execution Output:
+
+- Renders a cohort with name 'React Basics'
+- Status: ongoing (appears in green)
+- Start Date: 01-Jul-2025
+- End Date: 31-Jul-2025
+
+Rendered inside a styled box with:
+- 300px width
+- Inline block display
+- 10px margin
+- 10px vertical and 20px horizontal padding
+- Black border and 10px radius

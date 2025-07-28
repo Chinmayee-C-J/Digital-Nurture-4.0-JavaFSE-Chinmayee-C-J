@@ -1,0 +1,6 @@
+Output on http://localhost:3000:
+
+A list of posts fetched from https://jsonplaceholder.typicode.com/posts.
+Each post is displayed with its title as a heading and its body as a paragraph.
+
+If any error occurs during rendering, an alert will be shown and "Something went wrong." message will display on the page.

@@ -1,0 +1,7 @@
+Output when running the app on localhost:3000:
+
+-------------------------------------
+Welcome to the first session of React
+-------------------------------------
+
+Displayed as an H1 heading in the browser.
